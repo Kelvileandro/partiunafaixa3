@@ -1,0 +1,157 @@
+body
+{
+background-color: black;
+
+}
+
+.fundo1
+{
+    background-color: black;  
+    
+
+}
+
+.fundo2
+{
+    background-color: lightblue;
+    text-align: center;
+}
+
+.fundo3
+{
+
+}
+
+.faixa1 
+{
+
+}
+
+.faixa2
+{
+
+}
+
+.botao1
+{
+    background-color: lightblue;
+    text-align: center;
+    border: 1px solid black;
+    height: 45px;
+    width: 25%;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+     font-style: normal;
+     font-size: x-large;
+     color: darkblue;
+    
+}
+.botao1:active
+{
+    opacity: 0.5;
+}
+
+.botao2
+{
+    background-color: lightblue;
+    text-align: center;
+    border: 1px solid black;
+    height: 20px;
+    width: 25%;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+     font-style: normal;
+     font-size: x-large;
+     color: darkblue;
+}
+
+.texto1
+{
+    color:darkblue;
+
+}
+
+.texto2
+{
+
+}
+
+.texto3
+{
+
+}
+
+.imagem1
+{
+
+}
+
+.imagem2
+{
+
+}
+
+.imagem3
+{
+
+}
+
+.tabela1
+{
+    margin-top: 0%;
+    margin: 0 auto;
+    height: 40px;
+    width: 100%;
+    display: flex;
+
+}
+
+.tabela2
+{
+    margin: 0 auto;
+    height: 50px;
+    width: 100%;
+    display: flex;
+    
+}
+
+.tabela3
+{
+    background-color: white;
+    height: 1000px;
+    width: 100%;
+    display: flex;
+    margin: 0 auto;
+    color: black;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+    font-size: x-large;
+}
+.tabela3_1
+{
+    border: 1px solid white;
+    width: 20%;
+    height: 1000px;
+}
+.tabela3_2
+{
+    border: 1px solid white;
+    width: 60%;
+    height: 1000px;
+}
+
+.tabela4
+{
+    background-color: lightblue;
+    text-align: center;
+    border: 1px solid black;
+    height: 18px;
+    width: 5%;
+    font-family: "Poppins", sans-serif;
+    font-weight: 100;
+     font-style: normal;
+     font-size: x-large;
+     color: darkblue;
+}
